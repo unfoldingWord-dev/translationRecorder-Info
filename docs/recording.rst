@@ -72,31 +72,6 @@ Steps to Follow from the File Manager
 
 Detailed instructions for the Recording Window
 ----
-1.	On the home screen, tap in the pink recording area.
-
-2.	Check the information on the top gray bar:
-
-•	Target Language
-•	Project Type
-•	Book
-•	Chapter
-•	Verse or Chunk
-
-3.	Use the + and – signs to correct the chapter or verse/chunk number.
-
-4.	Tap the microphone icon.
-
-5.	Record the verse or chunk.
-
-6.	Tap the pause icon when done saying the verse/chunk.
-
-7.	Tap the check icon in the bottom pink bar.
-
-8.	Edit and rate the recording.
-
-9.	Save the recording. The recording window closes and the home screen shows.
-
-10.	Repeat steps 1 to 9 for all verses in the book.
 
 Starting at the home screen:
 
