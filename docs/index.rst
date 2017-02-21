@@ -18,9 +18,6 @@ Contents:
    recording
    editing
    sourceaudio
-      usingsourceaudio
-      creatingsourceaudio
-      sharingsourceaudio
    filemanager
    compiling
    markingverses
