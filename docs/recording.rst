@@ -1,9 +1,8 @@
 Recording
 ==============
 
-See the sections for detailed directions for recording, editing, rating and saving.
-
-Starting From Recording Window:
+Steps to Follow from the Recording Window
+----
 
 1.	On the home screen, tap in the pink recording area.
 
@@ -31,7 +30,9 @@ Starting From Recording Window:
 
 10.	Repeat steps 1 to 9 for all verses in the book.
 
-Starting from the File Manager
+
+Steps to Follow from the File Manager
+-----
 
 1.	On the home screen, tap in the blue file manager area.
 
@@ -69,8 +70,7 @@ Starting from the File Manager
 
 
 
-
-Recording Window
+Detailed instructions for the Recording Window
 ----
 1.	On the home screen, tap in the pink recording area.
 
