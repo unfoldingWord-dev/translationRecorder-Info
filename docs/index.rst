@@ -6,7 +6,7 @@
 translationRecorder Information
 ============================
 
-This site is the official documentation for Door43's Unlocked Grammar formatting information.
+This site is the official documentation for the translationRecorder user manuals.
 
 
 Contents:
