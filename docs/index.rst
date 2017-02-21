@@ -14,7 +14,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   start a project
+   startproject
    recording
    editing
    sourceaudio
@@ -26,7 +26,4 @@ Contents:
    markingverses
    projectinformation
    
-   structure
-   manifest
-   resource_types
-   linking
+
