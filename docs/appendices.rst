@@ -25,7 +25,7 @@ Videos
 
 Go to this YouTube Channel to view all of the videos:
 
-Installing translationRecorder
+Download and Install translationRecorder (https://youtu.be/mE6j7sGOWao)
 
 
 
