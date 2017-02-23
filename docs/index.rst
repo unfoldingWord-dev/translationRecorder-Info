@@ -22,5 +22,6 @@ Contents:
    compiling
    markingverses
    projectinformation
+   appendices
    
 
