@@ -5,13 +5,13 @@ Start a Project
 
 2.	Create or login to your account.
 
-* Tap on the Create Offline Account bar. You will be able to create an online Door43 account later.
-* Note: Tapping on the Cancel button will close the program. 
+3. Tap on the Create Offline Account bar. You will be able to create an online Door43 account later.
 
-3.	Use the keyboard and type in the actual name or a pseudonym of the translator. A “pseudonym” is a false name that is used instead of the real name of the person doing the work.
+Note: Tapping on the Cancel button will close the program. 
 
-•	Type in the real name or the pseudonym of the translator.
-•	Tap the blue ‘Continue’ button.
+4.	Use the keyboard and type in the actual name or a pseudonym of the translator. A “pseudonym” is a false name that is used instead of the real name of the person doing the work.
+
+5.	Tap the blue ‘Continue’ button.
 
 4.	Accept the ‘Privacy Notice’ by tapping on the blue word ‘Continue.’
 
@@ -19,70 +19,78 @@ Start a Project
 
 •	Tap on each of the blue bars. 
 •	Read the content. You may need to scroll to see the entire contents of the ‘Translation Guidelines’ and the ‘Statement of Faith’.
-•	Tap on ‘Close’ at the bottom of the window.
+•	Tap on ‘Close’ at the bottom of each of the windows.
 
-Tap the blue I AGREE link at the bottom of the window to agree with all three statements.
+6. Tap the blue I AGREE link at the bottom of the window to agree with all three statements.
 
 
 
 From the Project Manager
 ---------------
 
-NOTE: you may also start a new project from the recording section. 
+NOTE: you may also start a new project from the Recording Section. 
 
 1.	From the home screen (half blue and half pink), tap in the blue area to access Projects.
 
 2.	Tap on the pink ‘New Project’ button. Or, tap on the blue circle with a white plus sign.
 
+NOTE: You may tap on the left arrow in the top pink bar to go back to the previous screen at any time. Tap on the arrow to make a different choice.
+
 3.	Select the Target Language.  (The Target Language is the language into which you will translate.)
+
+•	You can search for your desired language by tapping the magnifying glass located in the top right corner of the screen. 
+•	The Keyboard appears. Type in the language or language code. A list of languages that matches the code shows.
+•	You can also search by swiping from the bottom of the screen up, to scroll through the languages. Tap on the desired language.
+•	Tap on the name of the desired Target Language. The program goes to the Choose a Project step.
+
+4. Choose a Project
+
+•	Choose, by tapping once, from Bible: OT or Bible: NT.
+
+5. Choose a Book
+
+•	Tap on name of a book in the Bible. You may need to swipe up to see more book names.
+
+6. Choose a Translation Type
+
+•	Tap to choose from the Unlocked Literal Bible or the Unlocked Dynamic Bible. (Do not tap on Regular.)
+
+7. Choose a Mode
+
+•	Tap to choose a Mode – either Verse or Chunk. This is how the information will be divided. 
+  * The ‘Verse’ mode has each recording separated like a regular Bible, one verse at a time.
+  * The ‘Chunk’ mode has each recording separated according to groups of verses.
+ 
+ Next, select the Source Audio. (The Source Language audio is the language from which you will translate.)
+
+8.	Tap on the top blue SELECT SOURCE LANGUAGE bar.
 
 •	You can search for your desired language by tapping the magnifying glass. 
 •	The Keyboard appears. Type in the language or language code. Close the keyboard by using the down arrow icon, or back arrow icon.  
 •	You can also search by swiping from the bottom of the screen up to scroll through the languages. Tap on the desired language.
-•	Tap on the name of the desired Target Language. The program goes to the Choose a Project step.
-
-4.	Select Choose a Project
-
-NOTE: You may tap on the left arrow in the top pink bar to go back to the previous screen at any time during the rest of the process of setting up a new project. Tap on the arrow to make a different choice.
-
-•	Choose, by tapping once, from Bible: OT or Bible: NT.
-•	Tap on name of a book in the Bible. You may need to swipe up to see more book names.
-•	Tap to choose from the Unlocked Literal Bible or the Unlocked Dynamic Bible. (Do not tap on Regular.)
-•	Tap to choose a Mode – either Verse or Chunk. This is how the information will be divided. 
-  * The ‘Verse’ mode has each recording separated like a regular Bible, one verse at a time.
-  * The ‘Chunk’ mode has each recording separated according to groups of verses.
-
-5.	Next, select the Source Audio. (The Source Language audio is the language from which you will translate.)
-
-•	This screen will appear if the source audio cannot be found in the default location. Go through the steps 6 and 7 to find the source audio. 
-
-6.	Tap on the top blue SELECT SOURCE LANGUAGE bar.
-
-•	You can search for your desired language by tapping the magnifying glass. 
-•	The Keyboard appears. Type in the language or language code. Close the keyboard by using the down arrow icon,   or back arrow icon.  •	 You can also search by swiping from the bottom of the screen up to scroll through the languages. Tap on the desired language.
-•   Tap on the name of the desired Source Language. 
+• Tap on the name of the desired Source Language. 
 •	The program goes back to the Select Source Audio screen.
 
-
-7.	Tap on the bottom blue SELECT SOURCE LOCATION bar.
+9.	Tap on the bottom blue SELECT SOURCE LOCATION bar.
 
 •	The directory with the audio files opens.
 
-NOTE: The audio files are configured in this way:  Language code book name.tr so for the book of Titus in Mandarin the file would be named cmnTitus.tr. 
+NOTE: The audio files are configured in this way:  Language-codebook-name.tr so for the book of Titus in Mandarin the file would be named "cmnTitus.tr". 
 
 •	Tap on the file.
+* The program goes back to the Select Source Audio screen.
  
 You have now set all your settings and are ready to work within translationRecorder. 
 
 Click the CONTINUE link at the bottom right on the screen. 
 
-The program returns to the main screen.
+The program opens the recording screen. Go to the (http://tr-info.readthedocs.io/en/latest/recording.html) for more instruction.
 
 
 From the Recording Section 
 -----------
 
-NOTE: you may also start a new project from the file manager section.
+NOTE: you may also start a new project from the File Manager section.
 
 1.	From the home screen (half blue and half pink), tap in the pink area to start recording.
 
