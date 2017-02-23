@@ -23,7 +23,7 @@ Stitching the Audio Together
 Videos
 ----
 
-Go to this YouTube Channel to view all of the videos: https://www.youtube.com/features
+Subscribe to the YouTube channel! Go here: (https://www.youtube.com/channel/UCgkZbycn5PDtRkHr2H-1JDQ) 
 
 Download and Install translationRecorder (https://youtu.be/mE6j7sGOWao)
 
