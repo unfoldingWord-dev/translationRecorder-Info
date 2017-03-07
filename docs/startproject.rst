@@ -49,13 +49,12 @@ From the Recording Section
 •	Tap on a book in the Bible. Swipe up to see more book names.
 •	Tap to choose from the Unlocked Literal Bible or the Unlocked Dynamic Bible.
 •	Tap to choose a Mode – either Verse or Chunk. This is how the information will be divided. 
-  * The ‘Verse’ mode has each recording separated according to the versification of the Bible.
+  * The ‘Verse’ mode has each recording separated like a regular Bible, one verse at a time.
   * The ‘Chunk’ mode has each recording separated according to groups of verses.
 
 5.	Next, select the Source Audio. (The Source Language audio is the language from which you will translate.)
 
-•	This screen will appear if the source audio cannot be found in the default location. 
-* Go through the steps 6 & 7 to find the source audio. 
+•	This screen will appear if the source audio cannot be found in the default location. Go through the steps 6 & 7 to find the source audio. 
 
 6.	Tap on the blue SELECT SOURCE LANGUAGE button.
 
