@@ -30,7 +30,7 @@ Note: Tapping on the Cancel button will close the program.
 From the Recording Section 
 -----------
 
-NOTE: A new project can only be started in the Recording Section the first time translationRecorder is used (a new install.)
+**NOTE**: A new project can only be started in the Recording Section the first time translationRecorder is used (a new install.)
 
 1.	From the home screen (half blue and half pink), tap in the pink area to start recording.
 
@@ -49,12 +49,13 @@ NOTE: A new project can only be started in the Recording Section the first time 
 •	Tap on a book in the Bible. Swipe up to see more book names.
 •	Tap to choose from the Unlocked Literal Bible or the Unlocked Dynamic Bible.
 •	Tap to choose a Mode – either Verse or Chunk. This is how the information will be divided. 
-o	The ‘Verse’ mode has each recording separated according to the versification of the Bible.
-o	The ‘Chunk’ mode has each recording separated according to groups of verses.
+  * The ‘Verse’ mode has each recording separated according to the versification of the Bible.
+  * The ‘Chunk’ mode has each recording separated according to groups of verses.
 
 5.	Next, select the Source Audio. (The Source Language audio is the language from which you will translate.)
 
-•	This screen will appear if the source audio cannot be found in the default location. Go through the steps 6 & 7 to find the source audio. 
+•	This screen will appear if the source audio cannot be found in the default location. 
+* Go through the steps 6 & 7 to find the source audio. 
 
 6.	Tap on the blue SELECT SOURCE LANGUAGE button.
 
@@ -63,14 +64,14 @@ o	The ‘Chunk’ mode has each recording separated according to groups of verse
 
 7.	Tap on the blue SELECT SOURCE LOCATION button.
 
-•	Navigate to the location of the source audio files. The audio files are configured in this way:
-Language code book name.tr so for the book of Titus in Mandarin the file would be named cmnTitus.tr.
-Hint: Look in the Internal Storage for the SourceAudio folder. 
+•	Navigate to the location of the source audio files. The audio files are configured in this way:  Language code book name.tr so for the book of Titus in Mandarin the file would be named cmnTitus.tr.
+
+**Hint**: Look in the Internal Storage for the SourceAudio folder. 
+
 •	Tap on the file.
+* Tap the down arrow icon to close the keyboard.
 
- Tap the down arrow icon to close the keyboard.
-
-Tap on the word ‘CONTINUE’ at the bottom right of the screen. 
+8. Tap on the word ‘CONTINUE’ at the bottom right of the screen. 
 
 The recording window opens.
 You have now set all your settings and are ready to work within translationRecorder. 
@@ -126,7 +127,7 @@ NOTE: You may tap on the left arrow in the top pink bar to go back to the previo
 
 •	The directory with the audio files opens.
 
-NOTE: The audio files are configured in this way:  Language-codebook-name.tr so for the book of Titus in Mandarin the file would be named "cmnTitus.tr". 
+**NOTE**: The audio files are configured in this way:  Language-codebook-name.tr so for the book of Titus in Mandarin the file would be named "cmnTitus.tr". 
 
 •	Tap on the file.
 * The program goes back to the Select Source Audio screen.
