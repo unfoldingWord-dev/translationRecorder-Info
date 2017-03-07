@@ -1,5 +1,8 @@
-Start a Project
+Start a New Project
 =======
+
+Open the Program
+-----
 
 1.	Tap on the translationRecorder program icon on the tablet screen.
 
@@ -24,11 +27,59 @@ Note: Tapping on the Cancel button will close the program.
 6. Tap the blue I AGREE link at the bottom of the window to agree with all three statements.
 
 
+From the Recording Section 
+-----------
+
+NOTE: A new project can only be started in the Recording Section the first time translationRecorder is used (a new install.)
+
+1.	From the home screen (half blue and half pink), tap in the pink area to start recording.
+
+2.	Tap on the pink ‘New Project’ button. Or, tap on the blue circle with a white plus sign.
+
+3.	Select the Target Language.  (The Target Language is the language into which you will translate.)
+
+•	You can search for your desired language by tapping the magnifying glass. 
+•	The Keyboard appears. Type in the language or language code. Close the keyboard by using the down arrow icon, or back arrow icon.  
+•	You can also search by swiping from the bottom of the screen up to scroll through the languages. Tap on the desired language.
+•	Tap on the name of the desired Target Language. The program goes to the Choose a Project step.
+ 
+4.	Next, select Choose a Project. 
+
+•	Choose, by tapping once, from Bible: OT, Bible: NT, or Open Bible Stories (skip to step 5).
+•	Tap on a book in the Bible. Swipe up to see more book names.
+•	Tap to choose from the Unlocked Literal Bible or the Unlocked Dynamic Bible.
+•	Tap to choose a Mode – either Verse or Chunk. This is how the information will be divided. 
+o	The ‘Verse’ mode has each recording separated according to the versification of the Bible.
+o	The ‘Chunk’ mode has each recording separated according to groups of verses.
+
+5.	Next, select the Source Audio. (The Source Language audio is the language from which you will translate.)
+
+•	This screen will appear if the source audio cannot be found in the default location. Go through the steps 6 & 7 to find the source audio. 
+
+6.	Tap on the blue SELECT SOURCE LANGUAGE button.
+
+•	You can search for your desired language by tapping the magnifying glass. The Keyboard appears. Type in the language or language code. Use the down arrow icon, at the bottom of the screen, to close the keyboard.  
+•	You can also search by swiping from the bottom of the screen up to scroll through the languages.  Tap on the desired language.
+
+7.	Tap on the blue SELECT SOURCE LOCATION button.
+
+•	Navigate to the location of the source audio files. The audio files are configured in this way:
+Language code book name.tr so for the book of Titus in Mandarin the file would be named cmnTitus.tr.
+Hint: Look in the Internal Storage for the SourceAudio folder. 
+•	Tap on the file.
+
+ Tap the down arrow icon to close the keyboard.
+
+Tap on the word ‘CONTINUE’ at the bottom right of the screen. 
+
+The recording window opens.
+You have now set all your settings and are ready to work within translationRecorder. 
+
+At any time you may tap the back arrow at the bottom left of the screen. That will take you out to the main menu.
+
 
 From the Project Manager
 ---------------
-
-NOTE: you may also start a new project from the Recording Section. 
 
 1.	From the home screen (half blue and half pink), tap in the blue area to access Projects.
 
@@ -86,54 +137,4 @@ Click the CONTINUE link at the bottom right on the screen.
 
 The program opens the recording screen. Go to the (http://tr-info.readthedocs.io/en/latest/recording.html) for more instruction.
 
-
-From the Recording Section 
------------
-
-NOTE: you may also start a new project from the File Manager section.
-
-1.	From the home screen (half blue and half pink), tap in the pink area to start recording.
-
-2.	Tap on the pink ‘New Project’ button. Or, tap on the blue circle with a white plus sign.
-
-3.	Select the Target Language.  (The Target Language is the language into which you will translate.)
-
-•	You can search for your desired language by tapping the magnifying glass. 
-•	The Keyboard appears. Type in the language or language code. Close the keyboard by using the down arrow icon, or back arrow icon.  
-•	You can also search by swiping from the bottom of the screen up to scroll through the languages. Tap on the desired language.
-•	Tap on the name of the desired Target Language. The program goes to the Choose a Project step.
- 
-4.	Next, select Choose a Project. 
-
-•	Choose, by tapping once, from Bible: OT, Bible: NT, or Open Bible Stories (skip to step 5).
-•	Tap on a book in the Bible. Swipe up to see more book names.
-•	Tap to choose from the Unlocked Literal Bible or the Unlocked Dynamic Bible.
-•	Tap to choose a Mode – either Verse or Chunk. This is how the information will be divided. 
-o	The ‘Verse’ mode has each recording separated according to the versification of the Bible.
-o	The ‘Chunk’ mode has each recording separated according to groups of verses.
-
-5.	Next, select the Source Audio. (The Source Language audio is the language from which you will translate.)
-
-•	This screen will appear if the source audio cannot be found in the default location. Go through the steps 6 & 7 to find the source audio. 
-
-6.	Tap on the blue SELECT SOURCE LANGUAGE button.
-
-•	You can search for your desired language by tapping the magnifying glass. The Keyboard appears. Type in the language or language code. Use the down arrow icon, at the bottom of the screen, to close the keyboard.  
-•	You can also search by swiping from the bottom of the screen up to scroll through the languages.  Tap on the desired language.
-
-7.	Tap on the blue SELECT SOURCE LOCATION button.
-
-•	Navigate to the location of the source audio files. The audio files are configured in this way:
-Language code book name.tr so for the book of Titus in Mandarin the file would be named cmnTitus.tr.
-Hint: Look in the Internal Storage for the SourceAudio folder. 
-•	Tap on the file.
-
- Tap the down arrow icon to close the keyboard.
-
-Tap on the word ‘CONTINUE’ at the bottom right of the screen. 
-
-The recording window opens.
-You have now set all your settings and are ready to work within translationRecorder. 
-
-At any time you may tap the back arrow at the bottom left of the screen. That will take you out to the main menu.
 
