@@ -15,7 +15,7 @@ Use these files to give to the oral-only translators. They might help them remem
 
 **Good Bad Not Usable Recordings**
 
-**Verse Tagging **
+**Verse Tagging**
 
 **Stitching the Audio Together**
 
