@@ -27,10 +27,10 @@ Note: Tapping on the Cancel button will close the program.
 6. Tap the blue I AGREE link at the bottom of the window to agree with all three statements.
 
 
-From the Recording Section 
+From the Recording Section (Pink)
 -----------
 
-**NOTE**: A new project can only be started in the Recording Section the first time translationRecorder is used (a new install.)
+**NOTE**: It is only  the first time translationRecorder is used (a new install) that a new project can be started in the Recording Section.
 
 1.	From the home screen (half blue and half pink), tap in the pink area to start recording.
 
@@ -78,7 +78,7 @@ You have now set all your settings and are ready to work within translationRecor
 At any time you may tap the back arrow at the bottom left of the screen. That will take you out to the main menu.
 
 
-From the Project Manager
+From the Project Manager Section (Blue)
 ---------------
 
 1.	From the home screen (half blue and half pink), tap in the blue area to access Projects.
