@@ -92,7 +92,7 @@ You are now in the Recorder. You can see the Target Language, the Source, the Bo
  
 7.	When done with that portion tap the pause button.  
 
-8.	You can then start recording again by tapping on the microphone icon, or tap the checkmark to move to the checking screen.
+8.	You can then start recording again by tapping on the microphone icon, or tap the checkmark to go to the edit screen.
  
  
 
