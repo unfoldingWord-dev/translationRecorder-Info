@@ -25,7 +25,7 @@ NOTE: See the "Detailed instructions for the Recording Window" section for compl
 
 7.	Tap the check icon in the bottom pink bar.
 
-8.	Edit and rate the recording.
+8.	Edit and rate the recording. (See: http://tr-info.readthedocs.io/en/latest/editing.html)
 
 9.	Save the recording. The recording window closes and the home screen shows.
 
@@ -61,7 +61,7 @@ Steps to Follow from the File Manager
 
 10.	Tap the check icon in the bottom pink bar.
 
-11.	Edit and rate the recording.
+11.	Edit and rate the recording. (See: http://tr-info.readthedocs.io/en/latest/editing.html)
 
 12.	Save the recording. The recording window closes and the file manager window for the verses in that chapter show.
 
