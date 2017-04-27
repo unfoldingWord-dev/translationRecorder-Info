@@ -26,6 +26,7 @@ Videos
 Subscribe to the YouTube channel! Go here: (https://www.youtube.com/channel/UCgkZbycn5PDtRkHr2H-1JDQ) 
 
 **Download and Install translationRecorder** (https://youtu.be/YQohnvuSo2w)
+
 **Recording Process** (https://youtu.be/V67aUcfBr0A)
 
 
