@@ -33,7 +33,7 @@ Sign up for the playlist from the YouTube channel! Go here: (https://www.youtube
 Power Point Presentations
 ----
 
-**How to Use Guide** - download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/translationRecorder_How_To_Guide.pptx)
+**Setup and Recording Process** - download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/translationRecorder_New_Project-Recording_v1.2.pptx) or the PDF file is here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/translationRecorder_New_Project-Recording_v1.2.pdf)
 
 
 Manuals
