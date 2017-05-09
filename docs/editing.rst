@@ -29,6 +29,7 @@ Note: The red line does not move.
 Optional: Tap the play icon to listen to the section that will be removed.
 
 3.	Delete the selected recording.
+
 *  Tap on the crossed-off flags to remove the flags and start at step 1 again.
 *  Tap on the scissors icon to delete the selected recording.
 *  Tap on the back arrow to undo the last edit.
