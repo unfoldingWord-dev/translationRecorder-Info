@@ -17,10 +17,12 @@ Remove a section of recording
 1.	Line up the thin red line where you want to start removing some of the recording.
 
 Note: The red line does not move. 
+
 *  Press-and-hold to move the recording to the red line.
 *  Press the flag icon. This will insert a marker where the cut will start.
 
 2.	Set the ending point of the cut.
+
 *  Drag the recording by holding your finger on the screen and sliding to the left until the end of the part to be removed is at the red line. 
 *  Tap the flag button. This will mark the section for deletion. 
 
