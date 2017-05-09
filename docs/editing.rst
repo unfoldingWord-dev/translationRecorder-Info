@@ -17,12 +17,12 @@ Remove a section of recording
 1.	Line up the thin red line where you want to start removing some of the recording.
 
 Note: The red line does not move. 
-•	Press-and-hold to move the recording to the red line.
-•	Press the flag icon. This will insert a marker where the cut will start.
+*  Press-and-hold to move the recording to the red line.
+*  Press the flag icon. This will insert a marker where the cut will start.
 
 2.	Set the ending point of the cut.
-•	Drag the recording by holding your finger on the screen and sliding to the left until the end of the part to be removed is at the red line. 
-•	Tap the flag button. This will mark the section for deletion. 
+*  Drag the recording by holding your finger on the screen and sliding to the left until the end of the part to be removed is at the red line. 
+*  Tap the flag button. This will mark the section for deletion. 
 
 Optional: Tap the play icon to listen to the section that will be removed.
 
@@ -46,8 +46,8 @@ Insert a new section of recording.
 
 5.	To insert the new recording, tap the checkmark icon.    
 
-•	A pop up will appear stating it is inserting recording ... please wait.
-•	The original target language recording opens with the added recording.
+*  A pop up will appear stating it is inserting recording ... please wait.
+*  The original target language recording opens with the added recording.
 
 To save the file tap the save icon. 
 *  A ‘Saving’ pop-up shows. 
@@ -61,12 +61,12 @@ If the recording is done well, then add a star rating to the recording.
 
 Tap on the star icon in the top gray bar. The ‘Rate this take’ window opens. 
 
-•	The term “take” is another word for a recording.
+*  The term “take” is another word for a recording.
 
 Tap on one of the three stars to rate.
 
-•	The star on the left for a 1-star rating – meaning this is a good recording. The star turns red.
-•	The middle star for a 2-star rating – meaning this is a better recording. The stars turn yellow.
-•	The star on the right for a 3-star rating – meaning this is an excellent recording. The stars turn green.
+*  The star on the left for a 1-star rating – meaning this is a good recording. The star turns red.
+*  The middle star for a 2-star rating – meaning this is a better recording. The stars turn yellow.
+*  The star on the right for a 3-star rating – meaning this is an excellent recording. The stars turn green.
 
 Tap on ‘OK’ to save the rating.
