@@ -1,4 +1,4 @@
-Start a New Project (version 1.0.5)
+Start a New Project (version 1.2.4)
 =======
 
 Open the Program
@@ -24,13 +24,13 @@ Note: Tapping on the Cancel button will close the program.
 •	Read the content. You may need to scroll to see the entire contents of the ‘Translation Guidelines’ and the ‘Statement of Faith’.
 •	Tap on ‘Close’ at the bottom of each of the windows.
 
-6. Tap the blue I AGREE link at the bottom of the window to agree with all three statements.
+6. Tap the blue I AGREE link at the bottom of the window if you agree with all three statements.
 
 
 From the Recording Section (Pink)
 -----------
 
-**NOTE**: It is only  the first time translationRecorder is used (a new install) that a new project can be started in the Recording Section.
+**NOTE**: A new project can be started in the Recording Section when it is the first time translationRecorder is used (a new install.)
 
 1.	From the home screen (half blue and half pink), tap in the pink area to start recording.
 
