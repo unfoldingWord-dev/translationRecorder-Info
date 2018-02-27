@@ -1,7 +1,7 @@
 Resource Container Structure
 ============================
 
-Container Format
+name of title
 ----------------
 
 A resource container may exist in two forms:
