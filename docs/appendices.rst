@@ -33,7 +33,7 @@ Sign up for the playlist from the YouTube channel! Go here: (https://www.youtube
 Power Point Presentations
 ----
 
-**Setup Process** - download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/translationRecorder_Starting_a_New_Project%20v1.2.4.pptx) or the PDF file is here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/translationRecorder_Starting_a_New_Project%20v1.2.4.pdf)
+**Starting a New Project 1.2.4** - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/translationRecorder_Starting_a_New_Project%20v1.2.4.pptx) or view the PDF file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/translationRecorder_Starting_a_New_Project%20v1.2.4.pdf)
 
 
 Manuals
