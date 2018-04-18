@@ -37,6 +37,9 @@ Power Point Presentations
  * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/translationRecorder_Starting_a_New_Project%20v1.2.4.pptx) 
  * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/translationRecorder_Starting_a_New_Project%20v1.2.4.pdf)
 
+**Recording Oral Languages 1.2.4**
+* Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/translationRecorder_Recording-Oral_Languages_%20v1.2.4.pptx)
+* PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/translationRecorder_Recording-Oral_Languages_%20v1.2.4.pdf)
 
 Manuals
 -----
