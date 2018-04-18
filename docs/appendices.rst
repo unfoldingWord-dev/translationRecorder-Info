@@ -34,8 +34,8 @@ Power Point Presentations
 ----
 
 **Starting a New Project 1.2.4** - 
-* Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/translationRecorder_Starting_a_New_Project%20v1.2.4.pptx) 
-* PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/translationRecorder_Starting_a_New_Project%20v1.2.4.pdf)
+ * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/translationRecorder_Starting_a_New_Project%20v1.2.4.pptx) 
+ * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/translationRecorder_Starting_a_New_Project%20v1.2.4.pdf)
 
 
 Manuals
