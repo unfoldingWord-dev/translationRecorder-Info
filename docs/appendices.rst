@@ -23,7 +23,7 @@ Use these files to give to the oral-only translators. They might help them remem
 Videos
 ----
 
-Sign up for the playlist from the YouTube channel! Go here: (https://www.youtube.com/channel/UCgkZbycn5PDtRkHr2H-1JDQ) 
+Sign up for the playlist from the YouTube channel! Go here: (https://www.youtube.com/playlist?list=PLN-c0nJYW1QgLRBSErOeX_R5EnbENvByQ) 
 
 
 Power Point Presentations (with PDFs)
