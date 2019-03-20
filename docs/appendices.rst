@@ -23,8 +23,8 @@ Use these files to give to the oral-only translators. They might help them remem
 Videos
 ----
 
-How to Delete a Section from a recording: https://youtu.be/iWK2XqfaFTc
-How to Insert a Section into a recording: https://youtu.be/Qu4vCEOtnCs
+* How to Delete a Section from a recording: https://youtu.be/iWK2XqfaFTc
+* How to Insert a Section into a recording: https://youtu.be/Qu4vCEOtnCs
 
 
 Power Point Presentations (with PDFs)
