@@ -13,7 +13,7 @@ Use these files to give to the oral-only translators. They might help them remem
 
 **Icons on the Target Language Checking Screen**
 
-**Good Bad Not Usable Recordings**
+**Good Bad Not Usable Recordings** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/MMT_Handouts/tR_Good_Recording_Levels_MTT.pdf)
 
 **Verse Tagging**
 
