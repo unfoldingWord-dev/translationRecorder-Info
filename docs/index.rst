@@ -23,5 +23,6 @@ Contents:
    markingverses
    projectinformation
    appendices
+   fr_appendices
    
 
