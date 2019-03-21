@@ -7,7 +7,7 @@ Use these files to give to the oral-only translators. They might help them remem
 
 **tR Recording Process from the Project Manager** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/RecordingProcess_ProjectManager_MTT.pdf)
 
-**tR Recording Process from the Recording Section** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/EditingRecordings_MTT.pdf)
+**tR Recording Process from the Recording Section** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/RecordingProcess_Audio_MTT.pdf)
 
 **tR Editing Audio Recordings** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/EditingRecordings_MTT.pdf)
 
