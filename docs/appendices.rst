@@ -5,19 +5,21 @@ Translator Handouts
 -----
 Use these files to give to the oral-only translators. They might help them remember the steps.
 
-**tR Recording Process from the Project Manager** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/RecordingProcess_ProjectManager_MTT.pdf)
+**tR Recording Process from the Project Manager** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/appendix/RecordingProcess_ProjectManager_MTT.pdf)
 
-**tR Recording Process from the Recording Section** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/RecordingProcess_Audio_MTT.pdf)
+**tR Recording Process from the Recording Section** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/appendix/RecordingProcess_ProjectManager_MTT.pdf)
 
-**tR Editing Audio Recordings** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/EditingRecordings_MTT.pdf)
+**tR Editing Audio Recordings** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/appendix/tR_Editing_Audio_Recordings_for_MTT.pdf)
 
-**Icons on the Target Language Checking Screen**
+**Icons on the Target Language Checking Screen** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/appendix/Icons_on_the_Target_Language_Checking_Screen.pdf)
 
-**Good Bad Not Usable Recordings** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/MMT_Handouts/tR_Good_Recording_Levels_MTT.pdf)
+**Good Recording Levels** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/appendix/tR_Good_Recording_Levels_MTT.pdf)
 
-**Verse Tagging**
+**Verse Tagging** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/appendix/tR_Marking_Verses_in_Chunk_%20Mode_for_MTT.pdf)
 
-**Stitching the Audio Together**
+**Completing a Book** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/appendix/tR_Finalizing_the_Book_for_MTT.pdf)
+
+**Sharing the Audio Files** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/appendix/tR_Sharing_the_Book_for_MTT.pdf)
 
 
 Videos
