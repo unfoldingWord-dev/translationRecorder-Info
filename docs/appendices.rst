@@ -1,6 +1,11 @@
 English Appendices
 =====
 
+English Source Audio
+-----
+Go to this page (https://sites.google.com/a/wycliffeassociates.org/wamtt/) to links to download the English source audio files for translationRecorder.
+
+
 Translator Handouts
 -----
 Use these files to give to the oral-only translators. They might help them remember the steps.
