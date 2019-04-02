@@ -11,29 +11,13 @@ Use these files to give to the oral-only translators. They might help them remem
 
 **Procédure d’enregistrement dans Translation Recorder- Ecran d’Enregistrement** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/tR_Recording_Process_From_Audio_for_MTT-FR_%20v1.24.pdf) [**tR Recording from Source Audio**]
 
-.. Image:: ../translationRecorder-Info/images/SMALL NEW.jpg
+.. Image:: ../images/SMALLNEW.jpg
     :width: 200
     :align: left
     :height: 170
-    :alt: NEW!!!
-
 **Editer les Enregistrements d’Audio – Ecran d’Enregistrement** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/tR_Editing_Audio_Recordings_for_MTT-FR_V1.24.pdf) [**tR Editing Audio Recordings**]
-
-
-.. Image:: ../translationRecorder-Info/images/SMALL NEW.jpg
-    :width: 200
-    :align: left
-    :height: 170
-    :alt: NEW!!!
-      
+     
 **Bons niveaux de la voix d’enregistrement** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/tR_Sound_Recording_Good_and_%20Not_Good_for_MTT-FR.pdf) [**Good Recording Levels**]
-
-
-.. Image:: ../translationRecorder-Info/images/SMALL NEW.jpg
-    :width: 200
-    :align: left
-    :height: 170
-    :alt: NEW!!!
       
 **Annoter des versets dans des passages.** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/tR_Marking_Verses_in_Chunk_Mode_for_MTT-FR_V1.24.pdf) [**Verse Tagging**]
 
