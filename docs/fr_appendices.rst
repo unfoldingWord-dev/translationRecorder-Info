@@ -15,6 +15,7 @@ Use these files to give to the oral-only translators. They might help them remem
     :width: 200
     :align: left
     :height: 170
+    
 **Editer les Enregistrements d’Audio – Ecran d’Enregistrement** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/tR_Editing_Audio_Recordings_for_MTT-FR_V1.24.pdf) [**tR Editing Audio Recordings**]
      
 **Bons niveaux de la voix d’enregistrement** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/tR_Sound_Recording_Good_and_%20Not_Good_for_MTT-FR.pdf) [**Good Recording Levels**]
