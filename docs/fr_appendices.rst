@@ -22,7 +22,7 @@ Use these files to give to the oral-only translators. They might help them remem
     :align: center
     :height: 170
 
-**Partager le Livre** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/tR_Finalizing_the_Book_for_MTT-French.pdf) [**Completing a Book**]
+**Finir le Livre** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/tR_Finalizing_the_Book_for_MTT-French.pdf) [**Completing a Book**]
 
 **Partager le Livre** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/tR_Sharing_the_Book_for_MTT-French.pdf)  [**Sharing the Audio Files**]
 
