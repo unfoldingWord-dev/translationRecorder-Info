@@ -1,6 +1,6 @@
 Editing the Target Language Recording
 =============
-See this File https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/IconsChecking.pdf for the list of icons and their name.
+See this File https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTT-R_Icons_Target_Language_Checking_Screen.pdf for the list of icons and their name.
 
 Compare the recording to the Source Language recording
 -----
